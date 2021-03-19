@@ -1,0 +1,24 @@
+{
+  "name": "gamebox-app-backend",
+  "version": "1.0.0",
+  "description": "NodeJs based Backend App for NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vsaiprakash/gamebox-app-backend.git"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "meanstack"
+  ],
+  "author": "Vukkum Sai Prakash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vsaiprakash/gamebox-app-backend/issues"
+  },
+  "homepage": "https://github.com/vsaiprakash/gamebox-app-backend#readme"
+}
