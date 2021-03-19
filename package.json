@@ -2,9 +2,10 @@
   "name": "gamebox-app-backend",
   "version": "1.0.0",
   "description": "NodeJs based Backend App for NodeJs",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "node test.js",
+    "start": "nodemon app.js"
   },
   "repository": {
     "type": "git",
@@ -24,5 +25,8 @@
   "dependencies": {
     "express": "^4.17.1",
     "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
   }
 }
