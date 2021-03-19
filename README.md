@@ -8,3 +8,4 @@ npm install express request --save
 https://scotch.io/tutorials/keeping-api-routing-clean-using-express-routers
 
 We are using Nodeman in Development (https://nodemon.io/)
+	npm install -g nodemon
