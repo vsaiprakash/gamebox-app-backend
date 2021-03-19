@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/vsaiprakash/gamebox-app-backend/issues"
   },
-  "homepage": "https://github.com/vsaiprakash/gamebox-app-backend#readme"
+  "homepage": "https://github.com/vsaiprakash/gamebox-app-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
 }
